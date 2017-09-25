@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 First file has been created!
 
 First File has been modified
+=======
+First File has been created!
+
+First File new update
+>>>>>>> f530869
